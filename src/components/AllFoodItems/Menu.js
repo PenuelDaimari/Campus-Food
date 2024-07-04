@@ -1,0 +1,95 @@
+export const ItemList = [
+  {
+    id: 1,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 1',
+    price: 450,
+  },
+  {
+    id: 2,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 2',
+    price: 150,
+  },
+  {
+    id: 3,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 3',
+    price: 200,
+  },
+  {
+    id: 4,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 4',
+    price: 550,
+  },  {
+    id: 5,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 1',
+    price: 450,
+  },
+  {
+    id: 6,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 2',
+    price: 150,
+  },
+  {
+    id: 7,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 3',
+    price: 200,
+  },
+  {
+    id: 8,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 4',
+    price: 550,
+  },  {
+    id: 9,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 1',
+    price: 450,
+  },
+  {
+    id: 10,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 2',
+    price: 150,
+  },
+  {
+    id: 11,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 3',
+    price: 200,
+  },
+  {
+    id: 12,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 4',
+    price: 550,
+  },  {
+    id: 13,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 1',
+    price: 450,
+  },
+  {
+    id: 'fasdfjksp',
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 2',
+    price: 150,
+  },
+  {
+    id: 15,
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 3',
+    price: 200,
+  },
+  {
+    id: 'afjdkasdf',
+    imageUrl: '/images/product_avatar.jpg',
+    itemName: 'Item 4',
+    price: 550,
+  },
+]
